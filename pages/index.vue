@@ -24,3 +24,9 @@
   max-width: 80%;
 }
 </style>
+
+<script setup>
+definePageMeta({
+  title: 'Affilium Network - Next Generation Affiliate Network'
+})
+</script>
