@@ -14,6 +14,10 @@ $green: #c0f4c4;
   color: $bright-blue;
 }
 
+.white-text-hover:hover {
+  color: white !important;
+}
+
 .green-bg {
   background-color: $green;
 }

@@ -1,0 +1,27 @@
+.green-text {
+  color: #c0f4c4;
+}
+
+.blue-text {
+  color: #5794ff;
+}
+
+.bright-blue-text {
+  color: #39dae3;
+}
+
+.white-text-hover:hover {
+  color: white !important;
+}
+
+.green-bg {
+  background-color: #c0f4c4;
+}
+
+.blue-bg {
+  background-color: #5794ff;
+}
+
+.bright-blue-bg {
+  background-color: #39dae3;
+}

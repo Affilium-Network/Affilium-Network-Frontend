@@ -13,7 +13,8 @@ export default defineNuxtConfig({
       { name: 'theme-color', content: '#00a300' }
     ],
      script: [
-      { src: 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js' }
+      { src: 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js' },
+      { src: 'https://kit.fontawesome.com/b28a2f1a04.js', crossorigin:"anonymous" }
     ],
     link: [
       { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' },
